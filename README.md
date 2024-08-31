@@ -16,7 +16,7 @@ Também possuo habilidades em UI Design e UX Design, conhecimento em diferentes 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](fernandog#5724)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991754303)
 
--
+--
 
 
 "Não há dia fácil. O único dia fácil foi ontem." Filosofia dos SEAL da Marinha dos Estados Unidos.
