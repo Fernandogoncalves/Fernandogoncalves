@@ -1,6 +1,6 @@
 ### Fernando Oliveira
 
-> Agile Master • Scrum Master • KCP • KMP • SAFe LPM • SAFe SA • SAFe SSM • PSM I • PSM II • PSPO I • PSPO II • MGT 3.0\
+> Agile Master • Scrum Master • KCP • KMP • SAFe LPM • SAFe SA • SAFe SSM • PSM I • PSM II • PSPO I • PSPO II • MGT 3.0
 
 ### Sobre
 
