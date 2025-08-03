@@ -7,12 +7,12 @@
 Com mais de 25 anos de experiência em tecnologia e ensino superior, atuo como catalisador em times ágeis, combinando expertise técnica e estratégica para acelerar entregas e otimizar resultados. Atualmente, lidero iniciativas de agilidade em time de tecnologia da Petrobras, transformando desafios complexos em soluções escaláveis.
 
 Minha Missão:
-🔹 Potencializar a maturidade ágil de organizações, aplicando frameworks como Scrum, SAFe e o Método Kanban.
-🔹 Maximizar eficiência operacional, reduzindo desperdícios e garantindo entregas previsíveis e alinhadas aos negócios.
-🔹 Capacitar times com metodologias práticas e métricas inteligentes para melhoria contínua.
+🔹 Potencializar a maturidade ágil de organizações, aplicando frameworks como Scrum, SAFe e o Método Kanban.\
+🔹 Maximizar eficiência operacional, reduzindo desperdícios e garantindo entregas previsíveis e alinhadas aos negócios.\
+🔹 Capacitar times com metodologias práticas e métricas inteligentes para melhoria contínua.\
 
-Atuei em setores diversos, incluindo:
-🔹 Petróleo & Gás | Bancário & Financeiro | Governamental | Educação | Saúde | CRM | Growth Hacking | Omnichannel.
+Atuei em setores diversos, incluindo:\
+🔹 Petróleo & Gás | Bancário & Financeiro | Governamental | Educação | Saúde | CRM | Growth Hacking | Omnichannel.\
 
 Experiência Multidisciplinar:
 🚀 Hands-on: Desenvolvedor, Analista de Negócios/Requisitos, Product Owner, Scrum Master e Agile Coach.
