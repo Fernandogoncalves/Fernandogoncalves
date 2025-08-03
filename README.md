@@ -16,7 +16,7 @@ Atuei em setores diversos, incluindo:\
 
 Experiência Multidisciplinar:\
 🚀 Hands-on: Desenvolvedor, Analista de Negócios/Requisitos, Product Owner, Scrum Master e Agile Coach.\
-🚀 Visão: Domínio técnico em UI/UX, backend, frontend e bancos de dados, aliado a soft skills estratégicas (growth mindset, gestão de mudança e resiliência).\
+🚀 Visão: Domínio técnico em UI/UX, backend, frontend e bancos de dados, aliado a soft skills estratégicas (growth mindset, gestão de mudança e resiliência).
 
 Diferenciais Competitivos:\
 🎯 +20 Certificações em Agile: KCP (Kanban Coaching Professional), KMP (Kanban Management Professional), SAFe, PSM II, PSPO II, FLSA (Flight Levels).\
