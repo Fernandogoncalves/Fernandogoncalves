@@ -4,11 +4,29 @@
 
 ### Sobre
 
-Sou um especialista em desenvolvimento de software com experiência em metodologias ágeis, incluindo Método Kanban, Framework Scrum, Framework SAFe e Modelo de Pensamento Flight Levels, aplicáveis em diversos setores, como bancário, financeiro, governamental, educacional, saúde, CRM, Growth Hacking e Omnichannel. Como agente de mudança, meu objetivo principal é maximizar o desempenho das equipes, garantir a compreensão e aplicação das práticas ágeis, treinar os times e aumentar a maturidade e produtividade. Além disso, busco inspirar pessoas e identificar oportunidades de melhoria para garantir entregas consistentes e previsíveis. Atualmente, estou focado na melhoria contínua com base em métricas ágeis e na redução de desperdícios.
+Com mais de 25 anos de experiência em tecnologia e ensino superior, atuo como catalisador em times ágeis, combinando expertise técnica e estratégica para acelerar entregas e otimizar resultados. Atualmente, lidero iniciativas de agilidade em time de tecnologia da Petrobras, transformando desafios complexos em soluções escaláveis.
 
-Com certificações incluindo KCP, KMP, SAFe LPM, SAFe SA, SAFe SSM, FLSA, FMP, PSM I, PSM II, PSPO I, PSPO II, PSK I, PSFS, PAL I, PACC-A, PACC-P, PACC-E, PTMC, PTFC, PLAE, PKE, CLF, PBB, PM, OKRCP e MGT 3.0, além de formação multidisciplinar, incluindo Mestrado em Engenharia de Software, Especializações em Gestão de Projetos, Desenvolvimento de Sistemas para WEB, Sistemas Orientados a Objetos e Tecnologia da Informação, e Técnico em Magistério.
+Minha Missão:
+🔹 Potencializar a maturidade ágil de organizações, aplicando frameworks como Scrum, SAFe e o Método Kanban.
+🔹 Maximizar eficiência operacional, reduzindo desperdícios e garantindo entregas previsíveis e alinhadas aos negócios.
+🔹 Capacitar times com metodologias práticas e métricas inteligentes para melhoria contínua.
 
-Também possuo habilidades em UI Design e UX Design, conhecimento em diferentes tecnologias digitais, incluindo infraestrutura, backend, frontend, web e app, bem como banco de dados. Além disso, minhas soft skills incluem adaptação, atitude positiva, escuta ativa, resiliência, responsabilidade, growth mindset, reskilling e upskilling.
+Atuei em setores diversos, incluindo:
+🔹 Petróleo & Gás | Bancário & Financeiro | Governamental | Educação | Saúde | CRM | Growth Hacking | Omnichannel.
+
+Experiência Multidisciplinar:
+🚀 Hands-on: Desenvolvedor, Analista de Negócios/Requisitos, Product Owner, Scrum Master e Agile Coach.
+🚀 Visão: Domínio técnico em UI/UX, backend, frontend e bancos de dados, aliado a soft skills estratégicas (growth mindset, gestão de mudança e resiliência).
+
+Diferenciais Competitivos:
+🎯 +20 Certificações em Agile: KCP (Kanban Coaching Professional), KMP (Kanban Management Professional), SAFe, PSM II, PSPO II, FLSA (Flight Levels).
+🎯 Formação Acadêmica: Mestrado em Engenharia de Software + Pós-graduações em Gestão de Projetos e TI.
+🎯 Resultados Mensuráveis: Implementação de OKRs, KPIs e fluxos otimizados que elevam produtividade.
+
+Impactos:
+✅ Times mais ágeis e autogerenciáveis com ciclos de entrega enxutos.
+✅ Produtividade sustentável através de práticas baseadas em dados.
+✅ Alinhamento estratégico entre tecnologia, negócios e experiência do cliente.
 
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoinfinite/)
