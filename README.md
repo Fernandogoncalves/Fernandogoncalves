@@ -4,7 +4,7 @@
 
 ### Sobre
 
-Com mais de 25 anos de experiência em tecnologia e ensino superior, atuo como catalisador em times ágeis, combinando expertise técnica e estratégica para acelerar entregas e otimizar resultados. Atualmente, lidero iniciativas de agilidade em time de tecnologia da Petrobras, transformando desafios complexos em soluções escaláveis.
+Atuo como catalisador em times ágeis, combinando expertise técnica e estratégica para acelerar entregas e otimizar resultados. Atualmente, lidero iniciativas de agilidade em time de tecnologia da Petrobras, transformando desafios complexos em soluções escaláveis.
 
 Minha Missão:\
 🔹 Potencializar a maturidade ágil de organizações, aplicando frameworks como Scrum, SAFe e o Método Kanban.\
