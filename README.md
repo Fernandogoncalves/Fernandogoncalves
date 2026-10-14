@@ -4,29 +4,18 @@
 
 ### Sobre
 
-Especialista em Maturidade Ágil & Eficiência Operacional:
-Atuo na otimização de fluxos de valor, redução de desperdícios e construção de entregas previsíveis e alinhadas aos objetivos do negócio.
-Eficiência operacional, redução de desperdícios e entregas previsíveis alinhadas ao negócio.
-Potencializar a maturidade ágil de organizações, aplicando frameworks como Scrum, SAFe e o Método Kanban.
+Sou especialista em Agilidade, Transformação Organizacional e Eficiência Operacional, com experiência na conexão entre estratégia, tecnologia, pessoas e resultados. 
+Atuo na evolução da maturidade ágil de organizações e times, estruturando fluxos de valor, reduzindo desperdícios, aumentando a previsibilidade das entregas e promovendo uma cultura de melhoria contínua orientada por dados. 
+Tenho experiência com Scrum, Kanban, SAFe, Lean, OKRs, métricas de fluxo e gestão de produtos. 
+Minha atuação combina visão estratégica e execução hands-on. Transito entre diferentes níveis da organização, do time operacional à liderança executiva, facilitando a comunicação entre negócio e tecnologia, apoiando decisões e transformando desafios complexos em ações práticas. 
+Ao longo da carreira, atuei como Agile Master, Scrum Master, Product Owner, Analista de Negócios, Analista de Requisitos, Gerente de Projetos, Analista de Sistemas e Professor, o que me proporciona uma visão ampla de produtos, processos, tecnologia e gestão. 
+Tenho experiência em projetos de alta complexidade e ambientes regulados nos setores de Petróleo e Gás, Bancário, Governo, Educação, Saúde, Varejo, CRM, Growth e Omnichannel, incluindo atuação junto a organizações como Petrobras, Banco do Brasil, Renner, PagSeguro, SICOOB, Ministério da Saúde, Ministério do Planejamento, AGU e Polícia Federal. 
+Também incorporo Inteligência Artificial Generativa ao trabalho, utilizando ferramentas como ChatGPT e Claude para apoiar análise de dados, documentação, discovery, planejamento, geração de hipóteses, simulação de cenários e tomada de decisão. 
+Sou Mestre em Engenharia de Software e possuo especializações em Gestão de Projetos, Desenvolvimento de Sistemas Web, Sistemas Orientados a Objetos, Ciência de Dados e Liderança e Gestão de Projetos Ágeis, além de diversas certificações em Agilidade, Kanban, Scrum, SAFe, Product Management, OKRs, Métricas e Agile Coaching.
+Meu propósito é ajudar organizações e times a transformar estratégia em execução, criando ambientes mais simples, colaborativos e orientados à geração sustentável de valor. 
 
-Atuação Estratégica e Executora:
-Conduzo projetos do Discovery à entrega, com visão estratégica e execução hands-on. Estruturo escopo, cronograma e marcos, e atuo como ponte entre times internos e stakeholders — facilitando reuniões, workshops e alinhando entregas multidisciplinares. Integro, inteligência artificial generativa (ChatGPT, DeepSeek e Claude) aos processos ágeis, utilizando essas ferramentas para acelerar análises de dados, gerar documentação técnica, simular cenários de planejamento e apoiar a tomada de decisão baseada em evidências.
-
-Atuação Multissetorial:
-Possuo experiência consolidada em setores complexos e regulados, incluindo:
-Petróleo & Gás | Bancário | Governamental | Educação | Saúde | CRM | Growth | Omnichannel
-
-Multidisciplinaridade Técnica e Comportamental:
-Agile Master, Scrum Master, Analista de Requisitos, Analista de Negócios, Gerente de Projetos, Desenvolvedor, Analista de UX, Analista de Dados, Analista de BI. Domínio técnico em UI/UX, backend, frontend e banco de dados, Busines Intelligence, com soft skills em gestão de mudanças e resiliência.
-
-Diferenciais que Geram Resultados:
-+20 certificações (KCP, KMP, SAFe, PSM II, PSPO II, FLSA) | Mestrado em Eng. Software | Especializações em Gestão de Projetos e TI | OKRs, KPIs e fluxos otimizados.
-
-Impactos Entregues: 
-Times mais autônomos e enxutos | Produtividade sustentável e baseada em evidências | Alinhamento entre tecnologia, negócios e cliente.
-
-Perfil e Abordagem:
-Tenho facilidade para transitar entre diferentes projetos, contextos e níveis hierárquicos — do operacional ao C-Level. Minha vivência no setor financeiro e em projetos de discovery estratégico me permite antecipar riscos e enxergar oportunidades onde outros veem obstáculos. Guio minha atuação por três pilares inegociáveis: pessoas (protagonismo e bem-estar), processos (simplicidade e eficiência) e resultados sustentáveis (entregas que geram valor contínuo).
+Principais áreas de atuação: 
+Agile Transformation | Agile Master | Scrum Master | Agile Coaching | Lean-Agile | Scrum | Kanban | SAFe | Product Management | Product Discovery | OKRs | Métricas e Indicadores | Eficiência Operacional | Gestão de Fluxo | Melhoria Contínua | Gestão de Mudanças | Inteligência Artificial Generativa
 
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoinfinite/)
